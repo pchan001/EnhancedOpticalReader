@@ -16,6 +16,7 @@ Environment Setup steps
 1. Setup Java (version 21+) for your system: https://www.oracle.com/java/technologies/downloads/
 2. Setup Apache Maven for your system: https://maven.apache.org/download.cgi
 3. Download tesseract ocr: https://github.com/UB-Mannheim/tesseract/wiki
+4. setup the data tesseract datapath in the code
 
 Assumptions:
 
