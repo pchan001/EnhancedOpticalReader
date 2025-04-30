@@ -8,6 +8,7 @@ and descrease the font size for easy readability.
 
 ## Team Members
 Preethi Chandrashekar
+<br>
 Trey W
 <br>
 ## Get Started
